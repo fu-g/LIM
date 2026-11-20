@@ -12,6 +12,9 @@ C++とSDL2を使用して制作した2Dアクションゲームです。
 
 ![タイトル画面](screenshots/title.png)
 
+## ダウンロード
+https://www.freem.ne.jp/win/game/33502
+
 ## 操作方法
 
 | キー | 操作 |
