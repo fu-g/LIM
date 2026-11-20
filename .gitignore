@@ -1,0 +1,42 @@
+
+# Executables
+*.exe
+
+# Compilation
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+*.pch
+*.gch
+
+# Build directories
+build/
+cmake-build-*/
+out/
+Debug/
+Release/
+
+# IDE
+.vscode/
+.vs/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SDL development files
+src/
+
+# SDL runtime dependencies (development copy)
+SDL2.dll
+SDL2_image.dll
+SDL2_ttf.dll
+libgcc_s_sjlj-1.dll
+libstdc++-6.dll
+libwinpthread-1.dll
+libtiff-5.dll
+libwebp-7.dll
